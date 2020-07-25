@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\React JS\\my-app\\css"
+		},
+		{
+			"path": "..\\..\\React JS\\my-app\\public"
+		},
+		{
+			"path": "..\\..\\React JS\\my-app\\src"
+		},
+		{
+			"path": "..\\..\\React JS\\my-app\\node_modules"
+		}
+	],
+	"settings": {}
+}
